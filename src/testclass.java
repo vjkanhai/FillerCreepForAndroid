@@ -4,5 +4,5 @@
 
 public class testclass
 {
-
+  private void Integer myparameter;
 }
