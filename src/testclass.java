@@ -1,4 +1,6 @@
-//It's a comment!
+/*
+ * A better looking comment!
+ */
 
 public class testclass
 {
